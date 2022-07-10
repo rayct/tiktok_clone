@@ -1,9 +1,9 @@
-import 'package:firebase_core/firebase_core.dart';
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 import 'package:tiktok_clone/constants.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:tiktok_clone/controllers/auth_controller.dart';
-import 'package:tiktok_clone/views/screens/auth/login_screen.dart';
+// import 'package:tiktok_clone/views/screens/auth/login_screen.dart';
 import 'package:tiktok_clone/views/screens/auth/signup_screen.dart';
 
 void main() async {
