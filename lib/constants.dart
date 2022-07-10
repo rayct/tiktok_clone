@@ -16,6 +16,14 @@ import 'package:tiktok_clone/controllers/auth_controller.dart';
 //   ProfileScreen(uid: authController.user.uid),
 // ];
 
+const pages = [
+  Text('Home Screen'),
+  Text('Search Screen'),
+  Text('Add Screen'),
+  Text('Messages Screen'),
+  Text('Priofile Screen'),
+];
+
 // COLORS
 const backgroundColor = Colors.black;
 var buttonColor = Colors.red[400];
