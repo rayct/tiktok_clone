@@ -42,7 +42,7 @@ class SignupScreen extends StatelessWidget {
                 const CircleAvatar(
                   radius: 64,
                   backgroundImage: NetworkImage(
-                      'https://www.pngitem.com/pimgs/m/150-1503945_transparent-user-png-default-user-image-png-png.png'),
+                      'https://ellatronix.com/cdn/assets/icons/4664092721557740377-128.png'),
                   backgroundColor: Colors.black,
                 ),
                 Positioned(
