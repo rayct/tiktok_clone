@@ -16,13 +16,13 @@ List pages = [
   ProfileScreen(uid: authController.user.uid),
 ];
 
-const pages = [
-  Text('Home Screen'),
-  Text('Search Screen'),
-  Text('Add Screen'),
-  Text('Messages Screen'),
-  Text('Priofile Screen'),
-];
+// const pages = [
+//   Text('Home Screen'),
+//   Text('Search Screen'),
+//   Text('Add Screen'),
+//   Text('Messages Screen'),
+//   Text('Priofile Screen'),
+// ];
 
 // COLORS
 const backgroundColor = Colors.black;
