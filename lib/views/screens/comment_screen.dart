@@ -4,6 +4,7 @@ import 'package:tiktok_clone/constants.dart';
 import 'package:tiktok_clone/controllers/comment_controller.dart';
 import 'package:timeago/timeago.dart' as tago;
 
+// ignore: must_be_immutable
 class CommentScreen extends StatelessWidget {
   final String id;
   CommentScreen({
