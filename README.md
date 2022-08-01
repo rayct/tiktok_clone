@@ -1,6 +1,6 @@
 # Full Stack Tiktok Clone | Flutter | Firebase | GetX
 
-## Projected Completed !
+## Projected Completed - Mon 1st Aug 2022
 A Tiktok App - Works on Android & iOS!
 
 ## Features
