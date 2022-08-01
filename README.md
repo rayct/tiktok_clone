@@ -1,6 +1,7 @@
 # Full Stack Tiktok Clone | Flutter | Firebase | GetX
 
-A Tiktok App - Works on Android & iOS! 
+## Projected Completed !
+A Tiktok App - Works on Android & iOS!
 
 ## Features
 - Authentication with Email & Password
